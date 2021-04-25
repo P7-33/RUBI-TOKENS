@@ -1017,3 +1017,24 @@ https://registry.npmjs.org/@babel/core/-/core-7.11.6.tgz
 https://registry.npmjs.org/@babel/core/-/core-7.11.6.tgz
 https://registry.npmjs.org/@babel/highlight/-/highlight-7.10.4.tgz
 https://registry.npmjs.org/ansi-styles/-/ansi-styles-3.2.1.tgz
+Thank to
+author = "Joan Daemen and Vincent Rijmen",
+ title = "The design of {Rijndael}: {AES} --- the {Advanced 
+ Encryption Standard}", 
+ publisher = "Spring{\-}er-Ver{\-}lag",
+ pages = "238", 
+year = "2002", 
+ISBN = "3-540-42580-2" 
+} 
+@misc{AES-FIPS, 
+ title = "Specification for the Advanced Encryption Standard (AES)", 
+
+howpublished = "Federal Information Processing Standards Publication 197", 
+
+year = "2001", 
+
+ url = " http://csrc.nist.gov/publications/fips/fips197/fips-197.pdf"
+ 
+} 
+
+Date: 9/04/2003 Page: 2/2
