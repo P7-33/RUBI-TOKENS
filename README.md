@@ -7,6 +7,7 @@ Sign up
 
 DIAMOND
 /
+https://github.com/p8-5/DIAMOND-TOKEN.wiki.git
 token-lists
 Code
 Issues
