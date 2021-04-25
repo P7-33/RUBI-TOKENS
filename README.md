@@ -5,7 +5,7 @@ SUPER TOKEN
 Skip to content
 Sign up
 
-Uniswap
+DIMOND
 /
 token-lists
 Code
