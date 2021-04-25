@@ -1016,9 +1016,7 @@ https://registry.npmjs.org/@babel/core/-/core-7.11.6.tgz
 https://registry.npmjs.org/@babel/core/-/core-7.11.6.tgz
 https://registry.npmjs.org/@babel/core/-/core-7.11.6.tgz
 https://registry.npmjs.org/@babel/highlight/-/highlight-7.10.4.tgz
-https://registry.npmjs.org/ansi-styles/-/ansi-styles-3.2.1.tgz
-Thank to
-author = "Joan Daemen and Vincent Rijmen",
+https://registry.npmjs.org/ansi-styles/-/ansi-styles-3.2.
  title = "The design of {Rijndael}: {AES} --- the {Advanced 
  Encryption Standard}", 
  publisher = "Spring{\-}er-Ver{\-}lag",
@@ -1031,11 +1029,23 @@ ISBN = "3-540-42580-2"
 
 howpublished = "Federal Information Processing Standards Publication 197", 
 
-year = "2001", 
+year = 
+#!/bin/sh
 
- url = " http://csrc.nist.gov/publications/fips/fips197/fips-197.pdf"
- 
-} 
+# Decrypt the file
+mkdir $HOME/secrets
+# --batch to prevent interactive command
+# --yes to assume "yes" for questions
+gpg --quiet --batch --yes --decrypt --passphrase="$LARGE_SECRET_PASSPHRASE" \
+--output $HOME/secrets/my_secret.json my_secret.json.gpg
+Ensure your shell script is executable before checking it in to your repository.
 
-Date: 9/04/2003 Page: 2/2
+$ chmod +x decrypt_secret.sh
+$ git add decrypt_secret.sh
+$ git commit -m "Add new decryption script"
+$ git push
+From your workflow, use a step to call the shell script and decrypt the secret. To have a copy of your repository in the environment that your workflow runs in, you'll need to use the actions/checkout action. Reference your shell script using the run command relative to the root of your 
+Privacy policy
+
+
 https://api.github.com/licenses/mit
