@@ -1,13 +1,12 @@
 ## DIAMOND-TOKEN
 SUPER TOKEN
 
-
+https://github.com/P7-33/BROSER-COIN.wiki.git
 Skip to content
 Sign up
 
 DIAMOND
 /
-https://github.com/p8-5/DIAMOND-TOKEN.wiki.git
 token-lists
 Code
 Issues
