@@ -1,6 +1,8 @@
 ## DIAMOND-TOKEN
 SUPER TOKEN
+P7-33/TOKEN-PLANET is licensed under the
 
+MIT License
 https://github.com/P7-33/BROSER-COIN.wiki.git
 Skip to content
 Sign up
