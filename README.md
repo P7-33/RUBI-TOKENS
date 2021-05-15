@@ -1,13 +1,11 @@
-## DIAMOND-TOKEN
-SUPER TOKEN
-P7-33/TOKEN-PLANET is licensed under the
-
-MIT License
+## DIAMOND ONE -TOKEN
+P7-33/ DIAMOND ONE TOKEN is licensed under the
 https://github.com/P7-33/BROSER-COIN.wiki.git
+
+MIT License:
 Skip to content
 Sign up
-
-DIAMOND
+DIAMOND ONE
 /
 token-lists
 Code
@@ -24,7 +22,7 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
 3 contributors
 9141 lines (9141 sloc)  351 KB
 {
-  "name": "@DIAMOND/token-lists",
+  "name": "@DIAMOND ONE/token-lists",
   "version": "1.0.0-beta.21",
   "lockfileVersion": 1,
   "requires": true,
