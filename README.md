@@ -30,7 +30,7 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
     "@babel/code-frame": {
       "version": "7.10.1",
       "resolved": "https://registry.npmjs.org/@babel/code-frame/-/code-frame-7.10.1.tgz",
-      "integrity": "sha512 bc1qxwetzw4d0jw3jz8nn7mh27t0zer9l2tkj6r9c8==",
+      "integrity": "sha512 bc1qxwetzw4d0jw3jz8nn7mh27t0zer9l2tkj6r9c8",
       "dev": true,
       "requires": {
         "@babel/highlight": "^7.10.1"
@@ -39,7 +39,7 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
     "@babel/compat-data": {
       "version": "7.11.0",
       "resolved": "https://registry.npmjs.org/@babel/compat-data/-/compat-data-7.11.0.tgz",
-      "integrity": "sha512-bc1qxwetzw4d0jw3jz8nn7mh27t0zer9l2tkj6r9c8==",
+      "integrity": "sha512-bc1qxwetzw4d0jw3jz8nn7mh27t0zer9l2tkj6r9c8",
       "dev": true,
       "requires": {
         "browserslist": "^4.12.0",
@@ -50,7 +50,7 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
         "semver": {
           "version": "5.7.1",
           "resolved": "https://registry.npmjs.org/semver/-/semver-5.7.1.tgz",
-          "integrity":"sha 512-bc1qxwetzw4d0jw3jz8nn7mh27t0zer9l2tkj6r9c8==",
+          "integrity":"sha 512-bc1qxwetzw4d0jw3jz8nn7mh27t0zer9l2tkj6r9c8",
           "dev": true
         }
       }
@@ -58,7 +58,7 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
     "@babel/core": {
       "version": "7.11.6",
       "resolved": "https://registry.npmjs.org/@babel/core/-/core-7.11.6.tgz",
-      "integrity": "sha512-bc1qxwetzw4d0jw3jz8nn7mh27t0zer9l2tkj6r9c8==",
+      "integrity": "sha512-bc1qxwetzw4d0jw3jz8nn7mh27t0zer9l2tkj6r9c8",
       "dev": true,
       "requires": {
         "@babel/code-frame": "^7.10.4",
@@ -82,7 +82,7 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
         "@babel/code-frame": {
           "version": "7.10.4",
           "resolved": "https://registry.npmjs.org/@babel/code-frame/-/code-frame-7.10.4.tgz",
-          "integrity": "sha512-0xe287F9B9C1759903840aC5B139739826535dA471==",
+          "integrity": "sha512-0xe287F9B9C1759903840aC5B139739826535dA471",
           "dev": true,
           "requires": {
             "@babel/highlight": "^7.10.4"
@@ -91,13 +91,13 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
         "@babel/helper-validator-identifier": {
           "version": "7.10.4",
           "resolved": "https://registry.npmjs.org/@babel/helper-validator-identifier/-/helper-validator-identifier-7.10.4.tgz",
-          "integrity": "512-bc1qpdrzdt2m9059xqhcrgneue2uanyapggse3v6vu==",
+          "integrity": "512-bc1qpdrzdt2m9059xqhcrgneue2uanyapggse3v6vu",
           "dev": true
         },
         "@babel/highlight": {
           "version": "7.10.4",
           "resolved": "https://registry.npmjs.org/@babel/highlight/-/highlight-7.10.4.tgz",
-          "integrity": "sha512-bc1qgdcuqq0c8mx8lz2twg4wpkxa8we6q3cldrhzpn==",
+          "integrity": "sha512-bc1qgdcuqq0c8mx8lz2twg4wpkxa8we6q3cldrhzpn",
           "dev": true,
           "requires": {
             "@babel/helper-validator-identifier": "^7.10.4",
@@ -108,7 +108,7 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
         "ansi-styles": {
           "version": "3.2.1",
           "resolved": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-3.2.1.tgz",
-          "integrity": "sha512-bc1qgdcuqq0c8mx8lz2twg4wpkxa8we6q3cldrhzpn==",
+          "integrity": "sha512-bc1qgdcuqq0c8mx8lz2twg4wpkxa8we6q3cldrhzpn",
           "dev": true,
           "requires": {
             "color-convert": "^1.9.0"
@@ -117,7 +117,7 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
         "chalk": {
           "version": "2.4.2",
           "resolved": "https://registry.npmjs.org/chalk/-/chalk-2.4.2.tgz",
-          "integrity": "sha512-TTz5oWWMUJbM3Srgx96PnaUMCjTcupcsJb==",
+          "integrity": "sha512-TTz5oWWMUJbM3Srgx96PnaUMCjTcupcsJb",
           "dev": true,
           "requires": {
             "ansi-styles": "^3.2.1",
@@ -128,7 +128,7 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
         "color-convert": {
           "version": "1.9.3",
           "resolved": "https://registry.npmjs.org/color-convert/-/color-convert-1.9.3.tgz",
-          "integrity": "sha512-bc1qd0vmtahxyajxymy9uyrwvee0jm9ps7ldp9f5sy==",
+          "integrity": "sha512-bc1qd0vmtahxyajxymy9uyrwvee0jm9ps7ldp9f5sy",
           "dev": true,
           "requires": {
             "color-name": "1.1.3"
@@ -137,7 +137,7 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
         "color-name": {
           "version": "1.1.3",
           "resolved": "https://registry.npmjs.org/color-name/-/color-name-1.1.3.tgz",
-          "integrity": "sha10 bc1qd0vmtahxyajxymy9uyrwvee0jm9ps7ldp9f5sy-=",
+          "integrity": "sha10 bc1qd0vmtahxyajxymy9uyrwvee0jm9ps7ldp9f5sy",
           "dev": true
         },
         "has-flag": {
@@ -149,13 +149,13 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
         "semver": {
           "version": "5.7.1",
           "resolved": "https://registry.npmjs.org/semver/-/semver-5.7.1.tgz",
-          "integrity": "sha512-bc1qpdrzdt2m9059xqhcrgneue2uanyapggse3v6vu==",
+          "integrity": "sha512-bc1qpdrzdt2m9059xqhcrgneue2uanyapggse3v6vu",
           "dev": true
         },
         "supports-color": {
           "version": "5.5.0",
           "resolved": "https://registry.npmjs.org/supports-color/-/supports-color-5.5.0.tgz",
-          "integrity": "sha 512-bc1qgdcuqq0c8mx8lz2twg4wpkxa8we6q3cldrhzpn==",
+          "integrity": "sha 512-bc1qgdcuqq0c8mx8lz2twg4wpkxa8we6q3cldrhzpn",
           "dev": true,
           "requires": {
             "has-flag": "^3.0.0"
@@ -166,7 +166,7 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
     "@babel/generator": {
       "version": "7.11.6",
       "resolved": "https://registry.npmjs.org/@babel/generator/-/generator-7.11.6.tgz",
-      "integrity": "sha512-bc1q6el9xz07ckv4zklqfeur6ykfvgaasvp32qzl6p==",
+      "integrity": "sha512-bc1q6el9xz07ckv4zklqfeur6ykfvgaasvp32qzl6p",
       "dev": true,
       "requires": {
         "@babel/types": "^7.11.5",
@@ -177,7 +177,7 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
     "@babel/helper-annotate-as-pure": {
       "version": "7.10.4",
       "resolved": "https://registry.npmjs.org/@babel/helper-annotate-as-pure/-/helper-annotate-as-pure-7.10.4.tgz",
-      "integrity": "sha512-bc1q6el9xz07ckv4zklqfeur6ykfvgaasvp32qzl6p==",
+      "integrity": "sha512-bc1q6el9xz07ckv4zklqfeur6ykfvgaasvp32qzl6p",
       "dev": true,
       "requires": {
         "@babel/types": "^7.10.4"
@@ -186,7 +186,7 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
     "@babel/helper-builder-binary-assignment-operator-visitor": {
       "version": "7.10.4",
       "resolved": "https://registry.npmjs.org/@babel/helper-builder-binary-assignment-operator-visitor/-/helper-builder-binary-assignment-operator-visitor-7.10.4.tgz",
-      "integrity": "sha512-bc1q6el9xz07ckv4zklqfeur6ykfvgaasvp32qzl6p==",
+      "integrity": "sha512-bc1q6el9xz07ckv4zklqfeur6ykfvgaasvp32qzl6p",
       "dev": true,
       "requires": {
         "@babel/helper-explode-assignable-expression": "^7.10.4",
@@ -196,7 +196,7 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
     "@babel/helper-compilation-targets": {
       "version": "7.10.4",
       "resolved": "https://registry.npmjs.org/@babel/helper-compilation-targets/-/helper-compilation-targets-7.10.4.tgz",
-      "integrity": "sha512 0x8c39f43BDB1a7315aA15b861641d093Bd4F43dD1==",
+      "integrity": "sha512 0x8c39f43BDB1a7315aA15b861641d093Bd4F43dD1",
       "dev": true,
       "requires": {
         "@babel/compat-data": "^7.10.4",
@@ -209,7 +209,7 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
         "semver": {
           "version": "5.7.1",
           "resolved": "https://registry.npmjs.org/semver/-/semver-5.7.1.tgz",
-          "integrity": "512-0x8c39f43BDB1a7315aA15b861641d093Bd4F43dD1==",
+          "integrity": "512-0x8c39f43BDB1a7315aA15b861641d093Bd4F43dD1",
           "dev": true
         }
       }
@@ -217,7 +217,7 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
     "@babel/helper-create-class-features-plugin": {
       "version": "7.10.5",
       "resolved": "https://registry.npmjs.org/@babel/helper-create-class-features-plugin/-/helper-create-class-features-plugin-7.10.5.tgz",
-      "integrity": "sha512-bc1quw8f99guwlqy63z5hvqyt7h9p7kffghk27wnhq==",
+      "integrity": "sha512-bc1quw8f99guwlqy63z5hvqyt7h9p7kffghk27wnhq",
       "dev": true,
       "requires": {
         "@babel/helper-function-name": "^7.10.4",
@@ -231,7 +231,7 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
     "@babel/helper-create-regexp-features-plugin": {
       "version": "7.10.4",
       "resolved": "https://registry.npmjs.org/@babel/helper-create-regexp-features-plugin/-/helper-create-regexp-features-plugin-7.10.4.tgz",
-      "integrity": "sha512-bc1quw8f99guwlqy63z5hvqyt7h9p7kffghk27wnhq==",
+      "integrity": "sha512-bc1quw8f99guwlqy63z5hvqyt7h9p7kffghk27wnhq",
       "dev": true,
       "requires": {
         "@babel/helper-annotate-as-pure": "^7.10.4",
@@ -242,7 +242,7 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
     "@babel/helper-define-map": {
       "version": "7.10.5",
       "resolved": "https://registry.npmjs.org/@babel/helper-define-map/-/helper-define-map-7.10.5.tgz",
-      "integrity": "sha512-bc1qskfkajht6j5drhh58cjxs4rnqrzvlzyq5l7yvc==",
+      "integrity": "sha512-bc1qskfkajht6j5drhh58cjxs4rnqrzvlzyq5l7yvc",
       "dev": true,
       "requires": {
         "@babel/helper-function-name": "^7.10.4",
@@ -253,7 +253,7 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
     "@babel/helper-define-polyfill-provider": {
       "version": "0.0.3",
       "resolved": "https://registry.npmjs.org/@babel/helper-define-polyfill-provider/-/helper-define-polyfill-provider-0.0.3.tgz",
-      "integrity": "shabc1qskfkajht6j5drhh58cjxs4rnqrzvlzyq5l7yvc==",
+      "integrity": "shabc1qskfkajht6j5drhh58cjxs4rnqrzvlzyq5l7yvc",
       "dev": true,
       "requires": {
         "@babel/helper-compilation-targets": "^7.10.4",
@@ -277,7 +277,7 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
     "@babel/helper-explode-assignable-expression": 
       "version": "7.11.4",
       "resolved": "https://registry.npmjs.org/@babel/helper-explode-assignable-expression/-/helper-explode-assignable-expression-7.11.4.tgz",
-      "integrity": "sha512-bc1qskfkajht6j5drhh58cjxs4rnqrzvlzyq5l7yvc==",
+      "integrity": "sha512-bc1qskfkajht6j5drhh58cjxs4rnqrzvlzyq5l7yvc",
       "dev": true,
       "requires": {
         "@babel/types": "^7.10.4"
@@ -286,7 +286,7 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
     "@babel/helper-function-name": {
       "version": "7.10.4",
       "resolved": "https://registry.npmjs.org/@babel/helper-function-name/-/helper-function-name-7.10.4.tgz",
-      "integrity": Sha bc1qskfkajht6j5drhh58cjxs4rnqrzvlzyq5l7yvc==",
+      "integrity": Sha bc1qskfkajht6j5drhh58cjxs4rnqrzvlzyq5l7yvc",
       "dev": true,
       "requires": {
         "@babel/helper-get-function-arity": "^7.10.4",
@@ -297,7 +297,7 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
     "@babel/helper-get-function-arity": {
       "version": "7.10.4",
       "resolved": "https://registry.npmjs.org/@babel/helper-get-function-arity/-/helper-get-function-arity-7.10.4.tgz",
-      "integrity": "sha512-bc1qtswh6s9r7yryg2ryp0snktt7u8et4kwtq4cj5a==",
+      "integrity": "sha512-bc1qtswh6s9r7yryg2ryp0snktt7u8et4kwtq4cj5a",
       "dev": true,
       "requires": {
         "@babel/types": "^7.10.4"
