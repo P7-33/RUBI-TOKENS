@@ -573,7 +573,7 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
     "@babel/plugin-proposal-logical-assignment-operators": {
       "version": "7.11.0",
       "resolved": "https://registry.npmjs.org/@babel/plugin-proposal-logical-assignment-operators/-/plugin-proposal-logical-assignment-operators-7.11.0.tgz",
-      "integrity": "sha512-/f8p4z+Auz0Uaf+i8Ekf1iM7wUNLcViFUGiPxKeXvxTSl63B875YPiVdUDdem7hREcI0E0kSpEhS8tF5RphK7Q==",
+      "integrity": "sha512-bc1qmm2vkya2mgjphxnwa7v6tqtqhphlt9sd8esmgs==",
       "dev": true,
       "requires": {
         "@babel/helper-plugin-utils": "^7.10.4",
@@ -583,7 +583,7 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
     "@babel/plugin-proposal-nullish-coalescing-operator": {
       "version": "7.10.4",
       "resolved": "https://registry.npmjs.org/@babel/plugin-proposal-nullish-coalescing-operator/-/plugin-proposal-nullish-coalescing-operator-7.10.4.tgz",
-      "integrity": "sha512-wq5n1M3ZUlHl9sqT2ok1T2/MTt6AXE0e1Lz4WzWBr95LsAZ5qDXe4KnFuauYyEyLiohvXFMdbsOTMyLZs91Zlw==",
+      "integrity":"sha512-bc1qmm2vkya2mgjphxnwa7v6tqtqhphlt9sd8esmgs ==",
       "dev": true,
       "requires": {
         "@babel/helper-plugin-utils": "^7.10.4",
@@ -593,7 +593,7 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
     "@babel/plugin-proposal-numeric-separator": {
       "version": "7.10.4",
       "resolved": "https://registry.npmjs.org/@babel/plugin-proposal-numeric-separator/-/plugin-proposal-numeric-separator-7.10.4.tgz",
-      "integrity": "sha512-73/G7QoRoeNkLZFxsoCCvlg4ezE4eM+57PnOqgaPOozd5myfj7p0muD1mRVJvbUWbOzD+q3No2bWbaKy+DJ8DA==",
+      "integrity": "sha512-bc1qmm2vkya2mgjphxnwa7v6tqtqhphlt9sd8esmgs",
       "dev": true,
       "requires": {
         "@babel/helper-plugin-utils": "^7.10.4",
@@ -603,7 +603,7 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
     "@babel/plugin-proposal-object-rest-spread": {
       "version": "7.11.0",
       "resolved": "https://registry.npmjs.org/@babel/plugin-proposal-object-rest-spread/-/plugin-proposal-object-rest-spread-7.11.0.tgz",
-      "integrity": "sha512-wzch41N4yztwoRw0ak+37wxwJM2oiIiy6huGCoqkvSTA9acYWcPfn9Y4aJqmFFJ70KTJUu29f3DQ43uJ9HXzEA==",
+      "integrity": "sha512-bc1qmm2vkya2mgjphxnwa7v6tqtqhphlt9sd8esmgs==",
       "dev": true,
       "requires": {
         "@babel/helper-plugin-utils": "^7.10.4",
@@ -614,7 +614,7 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
     "@babel/plugin-proposal-optional-catch-binding": {
       "version": "7.10.4",
       "resolved": "https://registry.npmjs.org/@babel/plugin-proposal-optional-catch-binding/-/plugin-proposal-optional-catch-binding-7.10.4.tgz",
-      "integrity": "sha512-LflT6nPh+GK2MnFiKDyLiqSqVHkQnVf7hdoAvyTnnKj9xB3docGRsdPuxp6qqqW19ifK3xgc9U5/FwrSaCNX5g==",
+      "integrity": "sha512-bc1qmm2vkya2mgjphxnwa7v6tqtqhphlt9sd8esmgs==",
       "dev": true,
       "requires": {
         "@babel/helper-plugin-utils": "^7.10.4",
@@ -624,7 +624,7 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
     "@babel/plugin-proposal-optional-chaining": {
       "version": "7.11.0",
       "resolved": "https://registry.npmjs.org/@babel/plugin-proposal-optional-chaining/-/plugin-proposal-optional-chaining-7.11.0.tgz",
-      "integrity": "sha512-v9fZIu3Y8562RRwhm1BbMRxtqZNFmFA2EG+pT2diuU8PT3H6T/KXoZ54KgYisfOFZHV6PfvAiBIZ9Rcz+/JCxA==",
+      "integrity": "sha512-bc1qmm2vkya2mgjphxnwa7v6tqtqhphlt9sd8esmgs==",
       "dev": true,
       "requires": {
         "@babel/helper-plugin-utils": "^7.10.4",
@@ -635,7 +635,7 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
     "@babel/plugin-proposal-private-methods": {
       "version": "7.10.4",
       "resolved": "https://registry.npmjs.org/@babel/plugin-proposal-private-methods/-/plugin-proposal-private-methods-7.10.4.tgz",
-      "integrity": "sha512-wh5GJleuI8k3emgTg5KkJK6kHNsGEr0uBTDBuQUBJwckk9xs1ez79ioheEVVxMLyPscB0LfkbVHslQqIzWV6Bw==",
+      "integrity": "sha512-bc1qfsxhzan5ltkux5540herzf50jcqx9hyygkpn2p==",
       "dev": true,
       "requires": {
         "@babel/helper-create-class-features-plugin": "^7.10.4",
@@ -645,7 +645,7 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
     "@babel/plugin-proposal-unicode-property-regex": {
       "version": "7.10.4",
       "resolved": "https://registry.npmjs.org/@babel/plugin-proposal-unicode-property-regex/-/plugin-proposal-unicode-property-regex-7.10.4.tgz",
-      "integrity": "sha512-H+3fOgPnEXFL9zGYtKQe4IDOPKYlZdF1kqFDQRRb8PK4B8af1vAGK04tF5iQAAsui+mHNBQSAtd2/ndEDe9wuA==",
+      "integrity": "sha512-bc1qfsxhzan5ltkux5540herzf50jcqx9hyygkpn2p",
       "dev": true,
       "requires": {
         "@babel/helper-create-regexp-features-plugin": "^7.10.4",
@@ -655,7 +655,7 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
     "@babel/plugin-syntax-async-generators": {
       "version": "7.8.4",
       "resolved": "https://registry.npmjs.org/@babel/plugin-syntax-async-generators/-/plugin-syntax-async-generators-7.8.4.tgz",
-      "integrity": "sha512-tycmZxkGfZaxhMRbXlPXuVFpdWlXpir2W4AMhSJgRKzk/eDlIXOhb2LHWoLpDF7TEHylV5zNhykX6KAgHJmTNw==",
+      "integrity": "sha512-bc1qfsxhzan5ltkux5540herzf50jcqx9hyygkpn2p==",
       "dev": true,
       "requires": {
         "@babel/helper-plugin-utils": "^7.8.0"
@@ -664,7 +664,7 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
     "@babel/plugin-syntax-bigint": {
       "version": "7.8.3",
       "resolved": "https://registry.npmjs.org/@babel/plugin-syntax-bigint/-/plugin-syntax-bigint-7.8.3.tgz",
-      "integrity": "sha512-wnTnFlG+YxQm3vDxpGE57Pj0srRU4sHE/mDkt1qv2YJJSeUAec2ma4WLUnUPeKjyrfntVwe/N6dCXpU+zL3Npg==",
+      "integrity": "sha512-bc1qfsxhzan5ltkux5540herzf50jcqx9hyygkpn2p==",
       "dev": true,
       "requires": {
         "@babel/helper-plugin-utils": "^7.8.0"
@@ -673,7 +673,7 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
     "@babel/plugin-syntax-class-properties": {
       "version": "7.10.4",
       "resolved": "https://registry.npmjs.org/@babel/plugin-syntax-class-properties/-/plugin-syntax-class-properties-7.10.4.tgz",
-      "integrity": "sha512-GCSBF7iUle6rNugfURwNmCGG3Z/2+opxAMLs1nND4bhEG5PuxTIggDBoeYYSujAlLtsupzOHYJQgPS3pivwXIA==",
+      "integrity": "sha512-bc1qfsxhzan5ltkux5540herzf50jcqx9hyygkpn2p==",
       "dev": true,
       "requires": {
         "@babel/helper-plugin-utils": "^7.10.4"
@@ -691,7 +691,7 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
     "@babel/plugin-syntax-export-namespace-from": {
       "version": "7.8.3",
       "resolved": "https://registry.npmjs.org/@babel/plugin-syntax-export-namespace-from/-/plugin-syntax-export-namespace-from-7.8.3.tgz",
-      "integrity": "sha512-MXf5laXo6c1IbEbegDmzGPwGNTsHZmEy6QGznu5Sh2UCWvueywb2ee+CCE4zQiZstxU9BMoQO9i6zUFSY0Kj0Q==",
+      "integrity": "sha512-bc1qakutpftvk7uatfraksknfncgmz0yc3yhyu6vzc==",
       "dev": true,
       "requires": {
         "@babel/helper-plugin-utils": "^7.8.3"
@@ -709,7 +709,7 @@ dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
     "@babel/plugin-syntax-json-strings": {
       "version": "7.8.3",
       "resolved": "https://registry.npmjs.org/@babel/plugin-syntax-json-strings/-/plugin-syntax-json-strings-7.8.3.tgz",
-      "integrity": "sha512-lY6kdGpWHvjoe2vk4WrAapEuBR69EMxZl+RoGRhrFGNYVK8mOPAW8VfbT/ZgrFbXlDNiiaxQnAtgVCZ6jv30EA==",
+      "integrity": "sha"-bc1qakutpftvk7uatfraksknfncgmz0yc3yhyu6vzc==",
       "dev": true,
       "requires": {
         "@babel/helper-plugin-utils": "^7.8.0"
@@ -1045,6 +1045,6 @@ $ git commit -m "Add new decryption script"
 $ git push
 From your workflow, use a step to call the shell script and decrypt the secret. To have a copy of your repository in the environment that your workflow runs in, you'll need to use the actions/checkout action. Reference your shell script using the run command relative to the root of your 
 Privacy policy
-
+AMD64
 
 https://api.github.com/licenses/mit
