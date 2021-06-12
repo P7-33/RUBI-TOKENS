@@ -7,6 +7,71 @@ Skip to content
 Sign up
 DIAMOND ONE
 /
+SHIBA INU Logo
+Search by Address / Txn Hash / Block / Token / Ens
+
+Token SHIBA INU 
+Sponsored:   - Bitcoloan - 405% APY with Bitcoloan vs 100% APY with DeFi. Your choice? Start earn now! 
+Overview [ERC-20]
+PRICE
+$0.00 @ 0.000000 Eth (+0.17%)
+FULLY DILUTED MARKET CAP 
+$6,409,999,877.57
+Max Total Supply:
+999,999,980,899,601.999999991787740414 SHIB
+Holders:
+497,533
+Transfers:
+1,854,639
+Profile Summary
+[Edit]
+Contract:
+0x8d9Dc02b05A5714467E7ecD7c708518271943E5B
+Decimals:
+18
+Official Site:
+https://shibatoken.com/ 
+Social Profiles:
+
+AdAds
+Transfers
+Holders
+Info
+DEX Trades
+Contract
+Analytics
+Comments 
+
+[ Download CSV Export  ] 
+Ethereum Logo
+Powered by Ethereum
+Etherscan is a Block Explorer and Analytics Platform for Ethereum, a decentralized smart contracts platform.
+
+Company
+About Us
+Advertise
+Contact Us
+Brand Assets
+CareersJoin Us
+Terms of Service
+Community
+Developer APIs
+Knowledge Base
+Newsletter
+Network Status
+Disqus Comments
+Other Products
+Blockscan
+Diem Block Explorer
+ETHProtect
+Binance BSC Explorer
+Fantom Chain Explorer
+Pathom© 2021 (C1)  |  Donate 
+
+   
+This website uses cookies to improve your experience and has an updated Privacy Policy.
+
+999, 999, 980, 899, 601.999999991787740414
 token-lists
 Code
 Issues
