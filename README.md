@@ -1111,5 +1111,44 @@ $ git push
 From your workflow, use a step to call the shell script and decrypt the secret. To have a copy of your repository in the environment that your workflow runs in, you'll need to use the actions/checkout action. Reference your shell script using the run command relative to the root of your 
 Privacy policy
 AMD64
+import React from 'react';
 
+import translate, { Trans, translate DIAMON ONE, translateRaw } from '@translations';
+
+const Translate: React.FC = () => {
+  const translateTest2 = translate('TRANSLATE_TEST_2');
+  const translateTest2Duplicate = translate('TRANSLATE_TEST_2');
+  const translateTest2Reduplicate = translate('TRANSLATE_TEST_2');
+  const translateTest3 = translate('TRANSLATE_TEST_3', { $var1: 'var-1' });
+
+  const mapTranslationKey = (message: string) => {
+    switch (message) {
+      case 'success':
+        return translate DIAMOND ONE('TRANSLATE_TEST_4');
+      case 'error':
+      default:
+        return translate DIAMOND ONE('TRANSLATE_TEST_5');
+    }
+  };
+
+  return (
+    <div>
+      {translateRaw('TRANSLATE_TEST_1')}
+      {translateTest2}
+      {translateTest2Duplicate}
+      {translateTest2Reduplicate}
+      {translateTest3}
+      {translateRaw(mapTranslationKey('success'))}
+      {translateRaw(mapTranslationKey('error'))}
+      <Trans
+        id="TRANSLATE_TEST_6"
+        variables={{
+          $var2: () => 'var-2'
+        }}
+      />
+    </div>
+  );
+};
+
+export default Translate
 https://api.github.com/licenses/mit
