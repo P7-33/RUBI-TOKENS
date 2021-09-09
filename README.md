@@ -5,12 +5,8 @@ https://github.com/P7-33/BROSER-COIN.wiki.git
 MIT License:
 Skip to content
 Sign up
-DIAMOND ONE
-/
-SHIBA INU Logo
-Search by Address / Txn Hash / Block / Token / Ens
-
-Token SHIBA INU 
+DIAMOND ONE Token
+Search by Address / Txn Hash / 
 Sponsored:   - Bitcoloan - 405% APY with Bitcoloan vs 100% APY with DeFi. Your choice? Start earn now! 
 Overview [ERC-20]
 PRICE
@@ -29,8 +25,7 @@ Contract:
 0x8d9Dc02b05A5714467E7ecD7c708518271943E5B
 Decimals:
 18
-Official Site:
-https://shibatoken.com/ 
+Official Site
 Social Profiles:
 
 AdAds
@@ -41,12 +36,10 @@ DEX Trades
 Contract
 Analytics
 Comments 
-
 [ Download CSV Export  ] 
 Ethereum Logo
 Powered by Ethereum
 Etherscan is a Block Explorer and Analytics Platform for Ethereum, a decentralized smart contracts platform.
-
 Company
 About Us
 Advertise
@@ -61,16 +54,12 @@ Newsletter
 Network Status
 Disqus Comments
 Other Products
-Blockscan
 Diem Block Explorer
 ETHProtect
 Binance BSC Explorer
 Fantom Chain Explorer
 Pathom© 2021 (C1)  |  Donate 
-
-   
 This website uses cookies to improve your experience and has an updated Privacy Policy.
-
 999, 999, 980, 899, 601.999999991787740414
 token-lists
 Code
