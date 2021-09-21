@@ -1,11 +1,11 @@
-## DIAMOND ONE -TOKEN
-P7-33/ DIAMOND ONE TOKEN is licensed under the
-https://github.com/P7-33/BROSER-COIN.wiki.git
+## RUBI-TOKEN
+
+
 https://docs.npmjs.com/creating-a-package-json-file
 MIT License:
 Skip to content
 Sign up
-DIAMOND ONE Token
+RUBI TOKEN
 Search by Address / Txn Hash / 
 Sponsored:   - Bitcoloan - 405% APY with Bitcoloan vs 100% APY with DeFi. Your choice? Start earn now! 
 Overview [ERC-20]
