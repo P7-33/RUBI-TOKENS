@@ -27,16 +27,15 @@ Decimals:
 18
 Official Site
 Social Profiles:
-AdAds
+RUBI TOKENS
 Transfers
 Holders
 Info
-DEX Trades
+SWAPBROWSER
 Contract
 Analytics
 Comments
-Powered by Ethereum
- SMART BROWSER Explorer and Analytics Platform for Ethereum, a decentralized smart contracts platform
+SWAPBROWSER Explorer and Analytics Platform for Ethereum, a decentralized smart contracts platform
 Company
 About Us
 Advertise
