@@ -40,3 +40,4 @@ jobs:
             }' \
           --fail
           --https://docs.github.com/en/enterprise-cloud@latest/actions/managing-workflow-runs/disabling-and-enabling-a-workflow
+          --https://github.com/P7-33/RUBI-TOKEN.wiki.git
