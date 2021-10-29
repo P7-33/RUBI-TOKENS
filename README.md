@@ -1,4 +1,4 @@
-## RUBI-TOKEN
+## RUBI-TOKENS
 
 
 https://docs.npmjs.com/creating-a-package-json-file
