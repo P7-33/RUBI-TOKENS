@@ -28,6 +28,8 @@ Decimals:
 Official Site
 Social Profiles:
 RUBI TOKENS
+ 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 
+
 Transfers
 Holders
 Info
