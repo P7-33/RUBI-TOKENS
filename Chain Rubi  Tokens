@@ -5,28 +5,29 @@ The source data is in _data/chains. Each chain has its own file with the filenam
 
 Example
 {
-  "name": "Ethereum Mainnet",
-  "chain": "ETH",
-  "network": "mainnet",
+  "name": "Chain Rubinet",
+  "chain": "Rubinet",
+  "network": "Rubinet",
   "rpc": [
-    "https://mainnet.infura.io/v3/${INFURA_API_KEY}",
-    "https://api.mycryptoapi.com/eth"
+    "https://Rubinet.io/v3/$",
+    "https://api.Rubinet.org
   ],
   "faucets": [],
   "nativeCurrency": {
-    "name": "Ether",
-    "symbol": "ETH",
+    "name": "Chain Rubinet",
+    "symbol": "CRB",
     "decimals": 18
   },
-  "infoURL": "https://ethereum.org",
-  "shortName": "eth",
+  "infoURL": "https://Rubi.org",
+  "shortName": "CRB",
   "chainId": 1,
   "networkId": 1,
-  "icon": "ethereum",
+  "icon": "Rubi
+",
   "explorers": [{
-    "name": "etherscan",
-    "url": "https://etherscan.io",
-    "icon": "etherscan",
+    "name": "Chain Rubinet",
+    "url": "https://Rubinet.io",
+    "icon": "Rubinet",
     "standard": "EIP3091"
   }]
 }
@@ -34,7 +35,7 @@ when an icon is used in either the network or a explorer there must be a json in
 
 [
     {
-      "url": "ipfs://QmdwQDr6vmBtXmK2TmknkEuZNoaDqTasFdZdu3DRw8b2wt", 
+      "url": "ipfs://", 
       "width": 1000,
       "height": 1628,
       "format": "png"
@@ -71,9 +72,9 @@ chainid.network
 WallETH
 TREZOR
 networks.vercel.app
-eth-chains
+Rubi-chains
 EVM-BOX
-FaucETH
+FaucCRB
 Sourcify playground
 Your project - contact us to add it here!
 Readme.md
@@ -82,28 +83,25 @@ The source data is in _data/chains. Each chain has its own file with the filenam
 
 Example
 {
-  "name": "Ethereum Mainnet",
-  "chain": "ETH",
-  "network": "mainnet",
-  "rpc": [
-    "https://mainnet.infura.io/v3/${INFURA_API_KEY}",
-    "https://api.mycryptoapi.com/eth"
-  ],
+  "name": "Chain Rubinet",
+  "chain": "CRB",
+  "network": "RUBInet",
+  "rpc": 
   "faucets": [],
   "nativeCurrency": {
-    "name": "Ether",
-    "symbol": "ETH",
+    "name": "Rubinet",
+    "symbol": "CRB",
     "decimals": 18
   },
   "infoURL": "https://ethereum.org",
   "shortName": "eth",
   "chainId": 1,
   "networkId": 1,
-  "icon": "ethereum",
+  "icon": "Rubinet",
   "explorers": [{
-    "name": "etherscan",
-    "url": "https://etherscan.io",
-    "icon": "etherscan",
+    "name": "Chain Rubinet",
+    "url": "https://Rubi.io",
+    "icon": "CRB",
     "standard": "EIP3091"
   }]
 }
@@ -111,47 +109,11 @@ when an icon is used in either the network or a explorer there must be a json in
 
 [
     {
-      "url": "ipfs://QmdwQDr6vmBtXmK2TmknkEuZNoaDqTasFdZdu3DRw8b2wt", 
+      "url": "ipfs://", 
       "width": 1000,
       "height": 1628,
       "format": "png"
     }
 ]
-where:
-
-the URL must be a IPFS url that is publicly resolveable
-width and height are optional - but when one is there then the other must be there also
-format is either "png", "jpg" or "svg"
-If the chain is an L2 or a shard of another chain you can link it to the parent chain like this:
-
-{
-  ...
-  "parent": {
-   "type" : "L2",
-   "chain": "eip155-1",
-   "bridges": [ {"url":"https://bridge.arbitrum.io"} ]
-  }
-}
-where you need to specify type 2 and the reference to an existing parent. The field about bridges is optional.
-
-Aggregation
-There are also aggregated json files with all chains automatically assembled:
-
-https://chainid.network/chains.json
-https://chainid.network/chains_mini.json (miniaturized - fewer fields for smaller filesize)
-Collision management
-If different chains have the same chainID we list the one with the oldest genesis.
-
-Usages
-chainlist.org or networklist-org.vercel.app as a staging version with a more up-to-date list
-chainid.network
-WallETH
-TREZOR
-networks.vercel.app
-eth-chains
-EVM-BOX
-FaucETH
-Sourcify playground
-Your project - contact us to add it here!
 
 
