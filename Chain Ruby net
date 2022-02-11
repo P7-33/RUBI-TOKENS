@@ -1,43 +1,88 @@
 README.md
-CHAIN RUBI CHAIN
+CHAIN RUBY CHAIN
 EVM-based Chains
 The source data is in _data/chains. Each chain has its own file with the filename being the CAIP-2 representation as name and .json ans extension.
 
 $ gem --version
+ 
+$ bundle --version
+Bundler version 1.13.7
+
+$ gem install keycutter
+
+---
+:github: Bearer TOKEN
+
+https://Ruby token/:TOKEN@rubygems.pkg.github.com/Ruby token/.
+
+
+:backtrace: false
+:bulk_threshold: 1000
+:sources:
+- https://rubygems.org/
+- https://Ruby token:TOKEN@rubygems.pkg.github.com/Ruby token/
+:update_sources: true
+:verbose: true
+
+$ bundle config https://rubygems.pkg.github.com/Rubi:Ruby token
+
+gem build OCTO-GEM.gemspec
+
+ --key github \
+--host https://rubygems.pkg.github.com/Ruby token \
+OCTO-GEM-0.0.1.gem
+
+gem.metadata = { "github_repo" => "ssh://github.com/Ruby token/Chain Ruby net" }
+
+source "https://rubygems.org"
+
+gem "rails"
+
+source "https://rubygems.pkg.github.com/OWNER" do
+  gem "GEM NAME"
+end
+
+source "https://rubygems.pkg.github.com/OWNER"
+source "https://rubygems.org"
+
+gem "rails"
+gem "GEM NAME"
+
+$ gem install octo-gem --version "0.1.1"
 
 Example
 {
-  "name": "Chain Rubinet",
-  "chain": "Rubinet",
-  "network": "Rubinet",
+  "name": "Chain Rubygems",
+  "chain": "Rubynet",
+  "network": "Rubynet",
   "rpc": [
-    "https://Rubinet.io/v3/$",
-    "https://api.Rubinet.org
+    "https://Rubynet.io/v3/$",
+    "https://api.Rubygems.org
   ],
   "faucets": [],
   "nativeCurrency": {
-    "name": "Chain Rubinet",
+    "name": "Chain Rubynet",
     "symbol": "CRB",
     "decimals": 18
   },
-  "infoURL": "https://Rubi.org",
+  "infoURL": "https://Rubygem.org",
   "shortName": "CRB",
   "chainId": 1,
   "networkId": 1,
-  "icon": "Rubi
+  "icon": "Ruby
 ",
   "explorers": [{
-    "name": "Chain Rubinet",
-    "url": "https://Rubinet.io",
-    "icon": "Rubinet",
+    "name": "Chain Rubygems",
+    "url": "https://Rubygems.io",
+    "icon": "Rubynet",
     "standard": "EIP3091"
   }]
 }
-when an icon is used in either the network or a explorer there must be a json in _data/icons with the name used (e.g. in the above example there must be a ethereum.json and a etherscan.json in there) - the icon jsons look like this:
+when an icon is used in either the network or a explorer there must be a json in _data/icons with the name used (e.g. in the above example there must be a rubygem.json and a rubygem.json in there) - the icon jsons look like this:
 
 [
     {
-      "url": "ipfs://", 
+      "url": "Ipfs://", 
       "width": 1000,
       "height": 1628,
       "format": "png"
@@ -74,7 +119,7 @@ chainid.network
 WallETH
 TREZOR
 networks.vercel.app
-Rubi-chains
+Ruby-chains
 EVM-BOX
 FaucCRB
 Sourcify playground
@@ -85,9 +130,9 @@ The source data is in _data/chains. Each chain has its own file with the filenam
 
 Example
 {
-  "name": "Chain Rubinet",
+  "name": "Chain Rubynet",
   "chain": "CRB",
-  "network": "RUBInet",
+  "network": "Rubynet",
   "rpc": 
   "faucets": [],
   "nativeCurrency": {
@@ -95,19 +140,19 @@ Example
     "symbol": "CRB",
     "decimals": 18
   },
-  "infoURL": "https://ethereum.org",
-  "shortName": "eth",
+  "infoURL": "https://rubygem.org",
+  "shortName": "RB",
   "chainId": 1,
   "networkId": 1,
   "icon": "Rubinet",
   "explorers": [{
-    "name": "Chain Rubinet",
-    "url": "https://Rubi.io",
+    "name": "Chain Rubynet",
+    "url": "https://Rubygem.io",
     "icon": "CRB",
     "standard": "EIP3091"
   }]
 }
-when an icon is used in either the network or a explorer there must be a json in _data/icons with the name used (e.g. in the above example there must be a ethereum.json and a etherscan.json in there) - the icon jsons look like this:
+when an icon is used in rubygem the network or a explorer there must be a json in _data/icons with the name used (e.g. in the above example there must be a rubygem.json and a rubygem.json in there) - the icon jsons look like this:
 
 [
     {
