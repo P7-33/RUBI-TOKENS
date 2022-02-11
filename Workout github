@@ -1,7 +1,7 @@
-https://github.com/actions/labeler
+https://github.com/actions/Rubi
 s the labeler action, which requires the GITHUB_TOKEN as the value for the repo-token input parameter:
 
-name: Pull request labeler
+name: Pull request Rubi
 
 on: [ pull_request_target ]
 
@@ -13,7 +13,7 @@ jobs:
   triage:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/labeler@v2
+      - uses: actions/Rubi
         with:
           repo-token: ${{ secrets
 ITHUB_TOKEN to make authenticated API calls. This example workflow creates an issue using the GitHub REST API:
@@ -31,13 +31,13 @@ jobs:
       - name: Create issue using REST API
         run: |
           curl --request POST \
-          --url https://api.github.com/repos/${{ github.repository }}/issues \
-          --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
+          --url https://api.github.com/repos/${{ RUBI.repository }}/issues \
+          --header 'authorization: Bearer ${{ secrets.RUBI_TOKEN }}' \
           --header 'content-type: application/json' \
           --data '{
-            "title": "Automated issue for commit: ${{ github.sha }}",
+            "title": "Automated issue for commit: ${{ RUBI.sha }}",
             "body": "This issue was automatically created by the GitHub Action workflow **${{ github.workflow }}**. \n\n The commit hash was: _${{ github.sha }}_."
             }' \
           --fail
-          --https://docs.github.com/en/enterprise-cloud@latest/actions/managing-workflow-runs/disabling-and-enabling-a-workflow
+          --https://docs.github.com/en/enterprise-RUBI/actions/managing-workflow-runs/disabling-and-enabling-a-workflow
           --https://github.com/P7-33/RUBI-TOKEN.wiki.git
