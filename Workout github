@@ -1,5 +1,5 @@
 https://github.com/actions/Rubi
-s the labeler action, which requires the GITHUB_TOKEN as the value for the repo-token input parameter:
+s the Rubi action, which requires the GITHUB_TOKEN as the value for the repo-token input parameter:
 
 name: Pull request Rubi
 
@@ -16,7 +16,7 @@ jobs:
       - uses: actions/Rubi
         with:
           repo-token: ${{ secrets
-ITHUB_TOKEN to make authenticated API calls. This example workflow creates an issue using the GitHub REST API:
+RUBI_TOKEN to make authenticated API calls. This example workflow creates an issue using the GitHub REST API:
 
 name: Create issue on commit
 
