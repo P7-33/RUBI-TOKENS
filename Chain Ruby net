@@ -13,14 +13,14 @@ $ gem install keycutter
 ---
 :github: Bearer TOKEN
 
-https://Ruby token/:TOKEN@rubygems.pkg.github.com/Ruby token/.
+https://Rubynet/:TOKEN@rubygems.pkg.github.com/Ruby token/.
 
 
 :backtrace: false
 :bulk_threshold: 1000
 :sources:
 - https://rubygems.org/
-- https://Ruby token:TOKEN@rubygems.pkg.github.com/Ruby token/
+- https://Rubynet:TOKEN@rubygems.pkg.github.com/Ruby token/
 :update_sources: true
 :verbose: true
 
@@ -38,11 +38,11 @@ source "https://rubygems.org"
 
 gem "rails"
 
-source "https://rubygems.pkg.github.com/OWNER" do
+source "https://ruby net.pkg.github.com/Ruby token" do
   gem "GEM NAME"
 end
 
-source "https://rubygems.pkg.github.com/OWNER"
+source "https://rubynet.pkg.github.com/Ruby token"
 source "https://rubygems.org"
 
 gem "rails"
@@ -52,7 +52,7 @@ $ gem install octo-gem --version "0.1.1"
 
 Example
 {
-  "name": "Chain Rubygems",
+  "name": "Chain Rubynet",
   "chain": "Rubynet",
   "network": "Rubynet",
   "rpc": [
@@ -72,7 +72,7 @@ Example
   "icon": "Ruby
 ",
   "explorers": [{
-    "name": "Chain Rubygems",
+    "name": "Chain Rubynet",
     "url": "https://Rubygems.io",
     "icon": "Rubynet",
     "standard": "EIP3091"
@@ -136,15 +136,15 @@ Example
   "rpc": 
   "faucets": [],
   "nativeCurrency": {
-    "name": "Rubinet",
+    "name": "Rubynet",
     "symbol": "CRB",
     "decimals": 18
   },
   "infoURL": "https://rubygem.org",
-  "shortName": "RB",
+  "shortName": "CRB",
   "chainId": 1,
   "networkId": 1,
-  "icon": "Rubinet",
+  "icon": "Rubynet",
   "explorers": [{
     "name": "Chain Rubynet",
     "url": "https://Rubygem.io",
