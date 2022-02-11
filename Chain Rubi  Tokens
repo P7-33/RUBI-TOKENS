@@ -3,6 +3,8 @@ CHAIN RUBI CHAIN
 EVM-based Chains
 The source data is in _data/chains. Each chain has its own file with the filename being the CAIP-2 representation as name and .json ans extension.
 
+$ gem --version
+
 Example
 {
   "name": "Chain Rubinet",
