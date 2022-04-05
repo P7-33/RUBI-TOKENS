@@ -22,7 +22,7 @@ Transfers:
 Profile Summary
 [Edit]
 Contract:
-0x8d9Dc02b05A5714467E7ecD7c708518271943E5B
+
 Decimals:
 18
 Official Site
@@ -31,11 +31,11 @@ RUBI TOKENS
 Transfers
 Holders
 Info
-SWAPBROWSER
+SWAP
 Contract
 Analytics
 Comments
-SWAPBROWSER Explorer and Analytics Platform for Ethereum, a decentralized smart contracts platform
+Matrix Explorer and Analytics Platform for Ethereum, a decentralized smart contracts platform
 Company
 About Us
 Advertise
@@ -45,14 +45,13 @@ CareersJoin Us
 Terms of Service
 Community
 Developer APIs
-https://github.com/P7-33/RUBI-TOKEN.wiki.git
 Knowledge Base
 Newsletter
 Network Status
 Disqus Comments
 Other Products
 Diem Block Explorer
-SWAPBROWSER
+SWAP
  RUBI Chain Explorer
 2021 (C1)  |  Donate 
 This website uses cookies to improve your experience and has an updated Privacy Policy.
@@ -66,12 +65,11 @@ Security
 Insights
 master
 RUBI TOKEN-lists/package-lock.json
-Owner:https://github.com/P7-33/RUBI-TOKEN.wiki.git
 dependabot Bump y18n from 4.0.0 to 4.0.1 (#35)
 
 9141 lines (9141 sloc)  351 KB
 {
-  "name": "@RUBI/token-lists",
+  "name": "@ruby/token-lists",
   "version": "1.0.0-beta.21",
   "lockfileVersion": 1,
   "requires": true,
